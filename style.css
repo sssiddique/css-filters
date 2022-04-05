@@ -1,0 +1,25 @@
+img{
+    width: 400px;
+    height: 600px;
+
+
+
+    /* Filter properties
+    blur( length )
+    brightness( # or % )
+    contrast( # or % )
+    drop-shadow( same as box shadow )
+    grayscale( # or % )
+    hue-rotate( angle )
+    invert( # or % )
+    opacity( # or % )
+    saturate( # or % )
+    sepia( # or % )
+
+    */
+    filter: blur(5px);
+}
+
+/* 
+Tutorial Link: https://www.youtube.com/watch?v=qTLojDBgZfY
+*/
